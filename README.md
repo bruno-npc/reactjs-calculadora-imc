@@ -1,7 +1,7 @@
 # Minha primeira aplicação feita em React JS
 Resultados:
-![Screenshot](Calculadora-IMC-Print.png)
-![Screenshot](Calculadora-IMC-Print-Resultado.png)
+![alt text](https://raw.githubusercontent.com/bruno-npc/reactjs-calculadora-imc/main/README_Archives/Calculadora-IMC-Print.PNG)
+![alt text](https://raw.githubusercontent.com/bruno-npc/reactjs-calculadora-imc/main/README_Archives/Calculadora-IMC-Print-Resultado.PNG)
 
 # Getting Started with Create React App
 
