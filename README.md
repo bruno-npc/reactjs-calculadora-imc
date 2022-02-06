@@ -1,3 +1,8 @@
+# Minha primeira aplicação feita em React JS
+Resultados:
+![Screenshot](Calculadora-IMC-Print.png)
+![Screenshot](Calculadora-IMC-Print-Resultado.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
